@@ -1,0 +1,9 @@
+Variable,Role,Type,Description
+Time,Input,numeric,Fermentation time in hours
+Conc CVH,Input,numeric,Chlorella vulgaris FSP-E hydrolysate concentration
+Treatment,Input,categorical,Pretreatment condition
+Chemical additives,Input,categorical,Chemical/additive condition
+VS,Input,numeric,Volatile solids
+TS,Input,numeric,Total solids
+H2,Target,numeric,Hydrogen response
+CO2,Target,numeric,Carbon dioxide response
