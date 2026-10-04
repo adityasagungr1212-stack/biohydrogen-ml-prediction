@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: "Machine Learning Prediction of Biohydrogen Production from Microalgal Hydrolysate"
+authors:
+  - family-names: Ramandani
+    given-names: Adityas Agung
+version: 1.0.0
+message: "Please cite the associated manuscript when using this repository."
